@@ -6,4 +6,6 @@ Geração do token JWT;
 
 Consumo da API utilizando Postman 
 
-<img width="645" height="682" alt="image" src="https://github.com/user-attachments/assets/4676e28e-2b8d-4331-92be-35164b3b84ae" />
+
+<img width="729" height="761" alt="image" src="https://github.com/user-attachments/assets/efe3a87f-23e5-4d3b-b5f2-20435f648aa4" />
+
