@@ -1,4 +1,5 @@
 const errorHandler = (err, req, res, next) => {
+    console.error('Erro capturado:', err.message);
     console.error(err.stack);
 
     const statusCode = err.statusCode || 500;

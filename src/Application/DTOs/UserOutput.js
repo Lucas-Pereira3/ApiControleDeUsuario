@@ -1,11 +1,10 @@
 class UserOutput{
-    constructor(token, user){
-        this.token=token;
-        this.user={
-            id: user.id,
-            name: user.name,
-            email: user.email
-        };
+    constructor(user){
+        this.id= user.id;
+        this.name=user.name;
+        this.email=user.email;
+        this.password=user.password;
     }
 }
+
 module.exports= UserOutput;
